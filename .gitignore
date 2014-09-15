@@ -37,6 +37,7 @@ Icon
 
 
 # custom
-.txt
-.png
-.jpg
+*.txt
+*.png
+*.jpg
+*.csv
